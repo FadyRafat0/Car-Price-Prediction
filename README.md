@@ -1,5 +1,8 @@
 # 🚗 Car Price Prediction  
 
+![Figure 1](Images/car_pred_1.JPG)
+![Figure 2](Images/car_pred_2.JPG)
+
 An end-to-end machine learning project for predicting car prices based on various features such as manufacturer, model, year, mileage, engine specs, and more. The project combines **data preprocessing, feature engineering, multiple ML models, and a Streamlit web app** for real-time predictions.  
 
 ## 📌 Project Overview  
